@@ -1,0 +1,17 @@
+{
+  "name": "expo37UseFrameworksError",
+  "displayName": "expo37UseFrameworksError",
+  "expo": {
+    "name": "expo37UseFrameworksError",
+    "slug": "expo37UseFrameworksError",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
